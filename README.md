@@ -2,6 +2,9 @@
 
 This project is a **real-time chat application** built with **React + Tailwind CSS + Socket.IO**. Users can join rooms, send and receive messages instantly.
 
+## Screenshot
+![socket-chat-app](https://github.com/user-attachments/assets/ca090ce1-70d0-44e0-b7e4-51868448ac6c)
+
 
 
 ## 🚀 Features
@@ -60,7 +63,5 @@ Add theme or color palette selection
 
 Support sending emojis and media
 
-## Screenshot
-![socket-chat-app](https://github.com/user-attachments/assets/ca090ce1-70d0-44e0-b7e4-51868448ac6c)
 
 
